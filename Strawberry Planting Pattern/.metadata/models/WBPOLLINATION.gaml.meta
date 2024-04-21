@@ -1,0 +1,11 @@
+#
+#Tue Oct 25 11:24:36 CST 2016
+plugins=msi.gama.core
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander
+attributes=rows~columns~area~perimeter~location~contour~x~y
+operators=-~rectangle~*~scaled_to~point~round~/~+~as~csv_file~\!\=~internal_at~split_with~polygon~scaled_by~any_location_in~at_location~circle~\!~\=~length~overlapping~?~and~every~\:~max~rnd~<~select~.~empty~first_with~shuffle~at_distance~where~<\=~min~count~>~flip~sum~collect~first~distance_to~exp~or~>\=~square~gauss~rgb~^~copy~any~points_on~union~covers~to_squares~mod~mean~convex_hull~poisson~standard_deviation~ln~sqrt
+skills=reflex~moving~fsm
+types=string~list~int~unknown~float~geometry~point~agent~rgb~bool~date~file~matrix~container
+statements=action~let~set~loop~if~arg~create~return~reflex~do~init~else~ask~state~enter~transition~exit~aspect~draw~save~output~display~display_population~graphics~chart~data~write~exhaustive
+architectures=fsm
+constants=white~m~sec~blue~purple~yellow~red~green~black
