@@ -1,0 +1,4 @@
+simID,repeatID,LANDSCAPE_SIZE_LENTH,LANDSCAPE_SIZE_WIDTH,left_margin,top_margin,nb_clones_column,nb_clones_row,hive_Location_X,hive_Location_Y,nb_honybee_on_hive,ratio_bee_worker,honeybee_wordload,honeybee_max_travel_dist,avg_fruit_mass,percent_malformed_berries
+10,1,10.0,8.0,4.5,0.5,10,12,1.04,0.5,80,0.4,14,1000.0,4.9828645833333365,0.9670292207792206
+10,1,10.0,8.0,4.5,0.5,10,12,1.04,0.5,80,0.4,20,1000.0,6.182638888888888,0.947949284511785
+10,1,10.0,8.0,4.5,0.5,10,12,1.04,0.5,80,0.4,200,1000.0,13.901371527777775,0.441851851851852
