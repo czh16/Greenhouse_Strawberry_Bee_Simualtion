@@ -2,7 +2,7 @@
 <p align="center" width="80%">
 <img src="fig/logo2.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
-
+[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/HUANGLIZI/ChatDoctor/blob/main/LICENSE) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)]
 ### Basic model
 
 This repository in file [Greenhouse_Strawberry_Bee_Simulation](https://github.com/czh16/Greenhouse_Strawberry_Bee_Simulation) contains the code and hyperparameters for the paper:
