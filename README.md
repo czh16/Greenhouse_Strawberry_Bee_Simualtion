@@ -7,7 +7,7 @@
 
 ### Basic model
 
-This repository in file [Greenhouse_Strawberry_Bee_Simulation](https://github.com/czh16/Greenhouse_Strawberry_Bee_Simulation/tree/main/Basic%20Simulation%20Model) contains the code and hyperparameters for the paper:
+This repository in file [Basic Simulation Model](https://github.com/czh16/Greenhouse_Strawberry_Bee_Simulation/tree/main/Basic%20Simulation%20Model) contains the code and hyperparameters for the paper:
 
 [Cao, Zhihao, et al. "Effects of bee density and hive distribution on pollination efficiency for greenhouse strawberries: A simulation study." *Agronomy* 13.3 (2023): 731.](https://www.mdpi.com/2073-4395/13/3/731)
 
