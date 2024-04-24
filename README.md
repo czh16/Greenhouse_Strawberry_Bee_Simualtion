@@ -11,7 +11,7 @@ This repository in file [Basic Simulation Model](https://github.com/czh16/Greenh
 
 [Cao, Zhihao, et al. "Effects of bee density and hive distribution on pollination efficiency for greenhouse strawberries: A simulation study." *Agronomy* 13.3 (2023): 731.](https://www.mdpi.com/2073-4395/13/3/731)
 
-The project is based on [GAMA simulation platform](https://github.com/gama-platform) and the version is GAMA1.8.
+The project is based on [GAMA platform](https://github.com/gama-platform) and the version is GAMA1.8.
 
 <p align="center" width="100%">
 <img src="fig/interface.png" style="width: 100%; min-width: 300px; display: block; margin: auto;">
