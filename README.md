@@ -15,6 +15,8 @@ The project is based on [GAMA simulation platform](https://github.com/gama-platf
 <p align="center" width="100%">
 <img src="fig/interface.png" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
+
+
 ### Simulation Experiments
 
 The project provides three experiments:
