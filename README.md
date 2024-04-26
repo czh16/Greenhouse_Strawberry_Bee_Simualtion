@@ -8,7 +8,7 @@
 
 
 
-### Basic model
+## 1. Basic model
 
 This repository in file [Greenhouse_Strawberry_Bee_Simulation](https://github.com/czh16/Greenhouse_Strawberry_Bee_Simulation) contains the code and hyperparameters for the paper:
 
@@ -16,12 +16,11 @@ This repository in file [Greenhouse_Strawberry_Bee_Simulation](https://github.co
 
 The project is based on [GAMA simulation platform](https://github.com/gama-platform) and the version is GAMA1.8.
 
-<p align="center" width="100%">
-<img src="fig/interface.png" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+<p align="center" width="80%">
+<img src="fig/interface.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-
-### Simulation Experiments
+### 1.1 Simulation Experiments
 
 The project provides three experiments:
 
@@ -31,7 +30,57 @@ The project provides three experiments:
 
 **Repetition:** This experiment will repeat the simulation for several times, designed for statistical analysis, such as ANOVA analysis and so on.
 
+### 1.1 Simulation Parameters
 
+<p align="center" width="10%">
+<img src="fig/parameters.png" style="width: 30%; min-width: 50px; display: block; margin: auto;">
+</p>
+
+
+
+#### 1.1.1 Simulation part
+
+**SimulationID:** 
+
+**RepeatID:** 
+
+#### 1.1.2 Greenhouse part
+
+#### 1.1.2 Greenhouse part
+
+**Greenhouse_length:** 
+
+**Greenhouse_width:** 
+
+**Left_margin:** 
+
+**Top_margin:** 
+
+**Hive_Location_X:** 
+
+**Hive_Location_Y:** 
+
+#### 1.1.3 Strawberry part
+
+**Strawberry_column:** 
+
+**Strawberry_row:** 
+
+**Strawberry_self_compatibility:** 
+
+**Strawberry_cultivar_compatibility:** 
+
+#### 1.1.4 Honeybee part
+
+**Honybee_on_hive:** 
+
+**Monitor:** 
+
+**Monitor:** 
+
+**Monitor:** 
+
+**Monitor:** 
 
 
 
