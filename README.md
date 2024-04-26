@@ -2,7 +2,6 @@
 <p align="center" width="80%">
 <img src="fig/logo2.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
-
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/HUANGLIZI/ChatDoctor/blob/main/LICENSE) 
 
 ### Basic model
@@ -16,4 +15,20 @@ The project is based on [GAMA simulation platform](https://github.com/gama-platf
 <p align="center" width="100%">
 <img src="fig/interface.png" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
+### Simulation Experiments
+
+The project provides three experiments:
+
+**Monitor:** This experiment is the fastest in simulation speed as it contains no GUI interface except a result monitor.
+
+**GUI:** This experiment provide a interactive and visual GUI in the simulation process, including the greenhouse, every strawberry plant and every bee.
+
+**Repetition:** This experiment will repeat the simulation for several times, designed for statistical analysis, such as ANOVA analysis and so on.
+
+
+
+
+
+
+
 
