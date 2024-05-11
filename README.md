@@ -35,6 +35,4 @@ The project provides three experiments:
 <p align="left" width="10%">
 <img src="fig/parameters.png" style="width: 30%; min-width: 50px; display: block; margin: auto;">
 </p>
-
-
-
+Documents are here [Simulation documents](documents.pdf).
