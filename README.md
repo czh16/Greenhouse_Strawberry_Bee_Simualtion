@@ -32,58 +32,9 @@ The project provides three experiments:
 
 ### 1.1 Simulation Parameters
 
-<p align="center" width="10%">
+<p align="left" width="10%">
 <img src="fig/parameters.png" style="width: 30%; min-width: 50px; display: block; margin: auto;">
 </p>
-
-
-
-#### 1.1.1 Simulation part
-
-**SimulationID:** 
-
-**RepeatID:** 
-
-#### 1.1.2 Greenhouse part
-
-#### 1.1.2 Greenhouse part
-
-**Greenhouse_length:** 
-
-**Greenhouse_width:** 
-
-**Left_margin:** 
-
-**Top_margin:** 
-
-**Hive_Location_X:** 
-
-**Hive_Location_Y:** 
-
-#### 1.1.3 Strawberry part
-
-**Strawberry_column:** 
-
-**Strawberry_row:** 
-
-**Strawberry_self_compatibility:** 
-
-**Strawberry_cultivar_compatibility:** 
-
-#### 1.1.4 Honeybee part
-
-**Honybee_on_hive:** 
-
-**Monitor:** 
-
-**Monitor:** 
-
-**Monitor:** 
-
-**Monitor:** 
-
-
-
 
 
 
